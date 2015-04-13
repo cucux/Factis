@@ -4,10 +4,15 @@ Open source ERP
 # Online demo
 http://factis.ddns.net
 
-Administrator rights\n
-user: admin\n
+Administrator rights
+
+user: admin
+
 password: admin 
 
-Common user rights\n
-user: cucux\n
+
+Common user rights
+
+user: cucux
+
 password: cucux
